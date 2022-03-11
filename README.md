@@ -7,19 +7,19 @@ The purpose of this analysis is to create a webpage with an aesthetically appeal
 #### Describe how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
 The user interface of this webpage is fairly straight forward. Once you have navigated to the webpage, it should appear as shown in the image below on the home page. 
 
-[https://github.com/mdbinger/UFOs/blob/main/static/css/images/home_page.png]
+![alt text](https://github.com/mdbinger/UFOs/blob/main/static/css/images/home_page.png)
 
 Navigate toward the bottom of the page to view the entire table. Near the top of the table of UFO data, on the left side of the page, you should see several filter options (shown below) which you can input information into in order to filter the table to show only values that match what you put in. 
 
-[insert screenshot of filter options]
+![alt text](https://github.com/mdbinger/UFOs/blob/main/static/css/images/filter_options.png)
 
 DISCLAIMER: Please note that there are specific formats required for entry, which are reflected in the example text in each filter box shown in the image above. For example, searching for "Fresno" will not return any results, as the code is looking for an exact match to our dataset, which has city, state, country, and shape names all in lowercase letters and states and countries are abbreviated. As a result, in order to get the results for Fresno, California in the United States, you would have to input, "fresno" in the city filter, "ca" in the State filter, and "us" in the country filter. You can see the results of the correct and an incorrect version of this search below. 
 
 ##### Incorrect Search
-[insert image of fresno search good and bad]
+![alt text](https://github.com/mdbinger/UFOs/blob/main/static/css/images/filtered_bad_example.png)
 
 ##### Correct Search
-
+![alt text](https://github.com/mdbinger/UFOs/blob/main/static/css/images/filtered_example.png)
 
 ## Summary 
 #### In a summary statement, describe one drawback of this new design and two recommendations for further development.
