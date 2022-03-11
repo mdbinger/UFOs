@@ -7,7 +7,7 @@ The purpose of this analysis is to create a webpage with an aesthetically appeal
 #### Describe how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
 The user interface of this webpage is fairly straight forward. Once you have navigated to the webpage, it should appear as shown in the image below on the home page. 
 
-[insert web image of home page]
+[https://github.com/mdbinger/UFOs/blob/main/static/css/images/home_page.png]
 
 Navigate toward the bottom of the page to view the entire table. Near the top of the table of UFO data, on the left side of the page, you should see several filter options (shown below) which you can input information into in order to filter the table to show only values that match what you put in. 
 
